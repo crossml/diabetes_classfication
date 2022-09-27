@@ -1,4 +1,4 @@
-# **diabetes_classIfication**
+# **diabetes_classification**
 
 **DATASET:**
 
