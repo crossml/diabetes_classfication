@@ -35,4 +35,4 @@ Checked for importance of each feature using Extra Tree Regressor and applied PC
 
 For fitting the model, i used Grid Search CV to check for best model (out of logistic regression ,SVM, Gradient Boost , Rabdom forest and Decision Tree classifier ) and best parameters  and chose the model with the best accuracy(Random Forest Classifier) as the final model
 
-For more details about the dataset and methodology, you can visit my medium blog from [here](https://medium.com/p/e4c649a666e9/edit)
+For more details about the dataset and methodology, you can visit my medium blog from [here](https://medium.com/@ayushi.aggarwal/exploratory-data-analysis-eda-and-classification-on-pima-indian-diabetes-dataset-e4c649a666e9)
