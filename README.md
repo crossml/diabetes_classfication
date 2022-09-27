@@ -1,5 +1,4 @@
 # **diabetes_classfication**
-# EDA-and-Classification
 
 **DATASET:**
 
